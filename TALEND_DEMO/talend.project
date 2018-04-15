@@ -528,7 +528,6 @@
     <componentsSettings xmi:id="_SQTuqkCtEeidUfQI21oxTw" name="DI|tSQLDWHCommit" hidden="true" family="Cloud/Azure/SQL Data Warehouse"/>
     <componentsSettings xmi:id="_SQTuq0CtEeidUfQI21oxTw" name="DI|tServiceNowOutput" hidden="true" family="Cloud/ServiceNow"/>
     <componentsSettings xmi:id="_SQTurECtEeidUfQI21oxTw" name="DI|tInformixClose" hidden="true" family="Databases/Informix"/>
-    <componentsSettings xmi:id="_SQTurUCtEeidUfQI21oxTw" name="DI|tRunJob" hidden="true" family="System"/>
     <componentsSettings xmi:id="_SQTurkCtEeidUfQI21oxTw" name="DI|tSAPODPInput" hidden="true" family="Business/SAP"/>
     <componentsSettings xmi:id="_SQTur0CtEeidUfQI21oxTw" name="DI|tOleDbInput" hidden="true" family="Databases/OleDb"/>
     <componentsSettings xmi:id="_SQTusECtEeidUfQI21oxTw" name="DI|tTeradataSCDELT" hidden="true" family="Business_Intelligence/DB_SCD"/>
