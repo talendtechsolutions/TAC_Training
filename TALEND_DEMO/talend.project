@@ -243,7 +243,6 @@
     <componentsSettings xmi:id="_SPz_ZUCtEeidUfQI21oxTw" name="DI|tNetezzaSCD" hidden="true" family="Databases/Netezza"/>
     <componentsSettings xmi:id="_SPz_ZkCtEeidUfQI21oxTw" name="DI|tCombinedSQLFilter" hidden="true" family="ELT/Combined SQL"/>
     <componentsSettings xmi:id="_SPz_Z0CtEeidUfQI21oxTw" name="DI|tSalesforceInput" hidden="true" family="Business/Salesforce"/>
-    <componentsSettings xmi:id="_SPz_aECtEeidUfQI21oxTw" name="DI|tParallelize" hidden="true" family="Orchestration"/>
     <componentsSettings xmi:id="_SPz_aUCtEeidUfQI21oxTw" name="DI|tOracleCommit" hidden="true" family="Databases/Oracle"/>
     <componentsSettings xmi:id="_SPz_akCtEeidUfQI21oxTw" name="DI|tEXAOutput" hidden="true" family="Databases/EXASolution"/>
     <componentsSettings xmi:id="_SPz_a0CtEeidUfQI21oxTw" name="DI|tRedshiftBulkExec" hidden="true" family="Cloud/Amazon/Redshift"/>
