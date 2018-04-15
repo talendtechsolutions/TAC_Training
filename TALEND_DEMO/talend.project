@@ -833,6 +833,19 @@
     <componentsSettings xmi:id="_ZzM4VUCtEeidUfQI21oxTw" name="DI|tGroovy" hidden="true" family="Custom_Code"/>
     <componentsSettings xmi:id="_ZzM4VkCtEeidUfQI21oxTw" name="DI|tLibraryLoad" hidden="true" family="Custom_Code"/>
     <componentsSettings xmi:id="_ZzM4V0CtEeidUfQI21oxTw" name="DI|tSetGlobalVar" hidden="true" family="Custom_Code"/>
+    <ItemsRelations xmi:id="_rwRoQEC1EeitquC9NbsAsA">
+      <baseItem xmi:id="_rwRoQUC1EeitquC9NbsAsA" id="_iiXuQEC1EeitquC9NbsAsA" version="0.1" type="job"/>
+      <relatedItems xmi:id="_rwRoQkC1EeitquC9NbsAsA" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rwRoQ0C1EeitquC9NbsAsA" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rwRoREC1EeitquC9NbsAsA" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rwSPUEC1EeitquC9NbsAsA" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rwSPUUC1EeitquC9NbsAsA" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rwSPUkC1EeitquC9NbsAsA" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rwSPU0C1EeitquC9NbsAsA" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rwSPVEC1EeitquC9NbsAsA" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rwSPVUC1EeitquC9NbsAsA" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_rwSPVkC1EeitquC9NbsAsA" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_hb2hMECsEeidUfQI21oxTw" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_hb2hMUCsEeidUfQI21oxTw" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_hb2hMkCsEeidUfQI21oxTw" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
