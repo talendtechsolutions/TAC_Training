@@ -789,7 +789,6 @@
     <componentsSettings xmi:id="_WfRpcECtEeidUfQI21oxTw" name="DI|tChronometerStart" hidden="true" family="Logs_Errors"/>
     <componentsSettings xmi:id="_WfRpcUCtEeidUfQI21oxTw" name="DI|tFlowMeterCatcher" hidden="true" family="Logs_Errors"/>
     <componentsSettings xmi:id="_WfRpckCtEeidUfQI21oxTw" name="DI|tLogRow" hidden="true" family="Logs_Errors"/>
-    <componentsSettings xmi:id="_WfRpc0CtEeidUfQI21oxTw" name="DI|tFlowMeter" hidden="true" family="Logs_Errors"/>
     <componentsSettings xmi:id="_WfRpdECtEeidUfQI21oxTw" name="DI|tAssertCatcher" hidden="true" family="Logs_Errors"/>
     <componentsSettings xmi:id="_WfRpdUCtEeidUfQI21oxTw" name="DI|tWarn" hidden="true" family="Logs_Errors"/>
     <componentsSettings xmi:id="_WfRpdkCtEeidUfQI21oxTw" name="DI|tChronometerStop" hidden="true" family="Logs_Errors"/>
