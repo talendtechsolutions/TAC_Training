@@ -95,7 +95,7 @@
       <elementParameter field="MEMO" name="COMMENT" value=""/>
       <metadata connector="FLOW" name="INPUT_1"/>
     </jobletNodes>
-    <jobletNodes componentName="OUTPUT" componentVersion="0.1" offsetLabelX="0" offsetLabelY="0" posX="288" posY="128">
+    <jobletNodes componentName="OUTPUT" componentVersion="0.1" offsetLabelX="0" offsetLabelY="0" posX="448" posY="128">
       <elementParameter field="TEXT" name="UNIQUE_NAME" value="OUTPUT_1"/>
       <elementParameter field="CHECK" name="STARTABLE" value="false" show="false"/>
       <elementParameter field="CHECK" name="START" value="false" show="false"/>
