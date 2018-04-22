@@ -982,6 +982,19 @@
       <relatedItems xmi:id="_LL8KgUWDEeiXaru7MFGiEg" id="TalendStringUtil" version="Latest" type="routine"/>
       <relatedItems xmi:id="_LL8KgkWDEeiXaru7MFGiEg" id="_ABDBgD4_Eei4W4A_92GDqQ - metadata" version="Latest" type="schema"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_byD8AEYvEeihb8-o24O6kQ">
+      <baseItem xmi:id="_byD8AUYvEeihb8-o24O6kQ" id="_SBrAAEYvEeihb8-o24O6kQ" version="0.1" type="job"/>
+      <relatedItems xmi:id="_byD8AkYvEeihb8-o24O6kQ" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_byD8A0YvEeihb8-o24O6kQ" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_byD8BEYvEeihb8-o24O6kQ" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_byD8BUYvEeihb8-o24O6kQ" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_byD8BkYvEeihb8-o24O6kQ" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_byD8B0YvEeihb8-o24O6kQ" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_byD8CEYvEeihb8-o24O6kQ" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_byD8CUYvEeihb8-o24O6kQ" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_byD8CkYvEeihb8-o24O6kQ" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_byD8C0YvEeihb8-o24O6kQ" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_hb2hMECsEeidUfQI21oxTw" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_hb2hMUCsEeidUfQI21oxTw" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_hb2hMkCsEeidUfQI21oxTw" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
